@@ -1,7 +1,7 @@
 === SINE Vagas ===
 Donate link: http://www.sine.com.br/
 Contributors: scrok@bne.com.br
-Tags: vagas, emprego,plugin,sine,widgets,search
+Tags: vagas, emprego,plugin,sine,widgets,search,jobs,
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0
@@ -12,27 +12,21 @@ O plugin Sine Vagas foi desenvolvido para fazer a divulgação das diversas vaga
 
 == Description ==
 
-A página sine.com.br é uma forma simples, rápida e gratuita de conseguir um novo emprego.
+A página sine.com.br é um Classificado de Vagas de Emprego online que promove o encontro entre empresas que estão em busca de um profissional e de candidatos que querem encontrar uma oportunidade de emprego.
 
-
-Você encontra seu novo emprego selecionando os campos “Função” e “Cidade”, escolhe a vaga que encaixa no seu perfil profissional, realiza o cadastro do seu currículo e candidata-se a vaga gratuitamente.
-
-Seu currículo será entregue ao contratante e você estará candidatado a vaga.
-
-O sine.com.br também disponibiliza o serviço para anunciantes que desejam encontrar uma nova pessoa para um cargo em aberto dentro da sua empresa. Basta anunciar a vaga e receber candidatos.
-
-Funciona de uma forma simples e prática.
-
-1. Você instala o plugin em seu site.
-
-2. Define a cidade e a função (Enfermeiro, Secretária, etc.) das vagas que deseja mostrar a seus usuários.
-
-3. Escolhe a posição dentro do seu site.
+O profissional encontra um novo emprego de forma simples, rápida e gratuita. Ele seleciona os campos de “Função” e “Cidade”, escolhe a vaga que se encaixa em seu perfil, realiza o cadastro do currículo e candidata-se a vaga gratuitamente.
  
+O sine.com.br também disponibiliza o serviço para empregadores que desejam encontrar profissionais para um cargo em aberto dentro da sua empresa. Basta anunciar a vaga e informar um e-mail para receber os currículos dos  candidatos interessados.
 
-E pronto! O plugin é responsivo e se adapta ao a sua página automaticamente.
-
-Após a instalação seu site disponibilizará aos seus usuários as vagas disponíveis no site sine.com.br.
+Funciona de forma simples e prática.
+ 
+1. Você instala o plugin em seu site.
+2. Define a cidade e a função (Ex: Enfermeiro, Secretária, etc.) das vagas que deseja mostrar para seus usuários.
+3. Escolhe onde as informações de vagas serão mostradas dentro de seu site.
+ 
+E pronto! O plugin é responsivo e se adapta a sua página automaticamente.
+ 
+Após a instalação, seu site disponibilizará aos seus usuários as todas vagas disponíveis no site sine.com.br, conforme  a sua escolha.
 
 == Installation ==
 
@@ -67,8 +61,8 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 == Changelog ==
 
 = 1.0 =
-* Exibe vagas do site nacional de empregos.
-* Pode se configurada através do widgets.
+* Exibe vagas do Site Nacional de Empregos.
+* Pode ser configurada através do widgets.
 
 == Upgrade Notice ==
 
